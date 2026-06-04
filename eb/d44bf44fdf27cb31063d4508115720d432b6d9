@@ -1,0 +1,106 @@
+hibot/src/main/java/com/volcengine/hibot/v1/SkillsService.java
+  43f678af2b2bf4b7 35-42,64-73 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a20f0ec0a2eee0d010b0e2c","tool_type":"agent","tool_id":"RunCommand","line_ranges":[{"Range":[35,42]},{"Range":[64,73]}]}]}
+pom.xml
+  43f678af2b2bf4b7 77-103 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a20f0ec0a2eee0d010b0e2c","tool_type":"agent","tool_id":"RunCommand","line_ranges":[{"Range":[77,103]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "ebd44bf44fdf27cb31063d4508115720d432b6d9",
+  "prompts": {
+    "43f678af2b2bf4b7": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a20ec9a0a2eee0d010b0c11",
+        "model": "DeepSeek-V4-Pro__dev"
+      },
+      "human_author": "wangchunxing <wangchunxing@bytedance.com>",
+      "messages": [],
+      "total_additions": 304,
+      "total_deletions": 7,
+      "accepted_lines": 304,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {
+    "hibot/src/main/java/com/volcengine/hibot/v1/SkillsService.java": [
+      {
+        "hash": "43f678af2b2bf4b7",
+        "line_ranges": [
+          {
+            "Range": [
+              35,
+              42
+            ]
+          },
+          {
+            "Range": [
+              64,
+              73
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a20f0ec0a2eee0d010b0e2c",
+            "tool_type": "agent",
+            "tool_id": "RunCommand",
+            "line_ranges": [
+              {
+                "Range": [
+                  35,
+                  42
+                ]
+              },
+              {
+                "Range": [
+                  64,
+                  73
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pom.xml": [
+      {
+        "hash": "43f678af2b2bf4b7",
+        "line_ranges": [
+          {
+            "Range": [
+              77,
+              103
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a20f0ec0a2eee0d010b0e2c",
+            "tool_type": "agent",
+            "tool_id": "RunCommand",
+            "line_ranges": [
+              {
+                "Range": [
+                  77,
+                  103
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "43f678af2b2bf4b7": {
+      "tool": "trae",
+      "conversation_id": "6a20ec9a0a2eee0d010b0c11",
+      "session_id": "6a20ec9a0a2eee0d010b0c11",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}

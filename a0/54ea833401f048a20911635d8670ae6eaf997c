@@ -1,0 +1,53 @@
+hibot/src/main/java/com/volcengine/hibot/v1/types/V1Agent.java
+  s_9b64c38425ac00::t_e01877cc45cb54 7
+  s_9b64c38425ac00::t_38d061ebbc0cd2 19-21
+hibot/src/main/java/com/volcengine/hibot/v1/SessionsService.java
+  s_9b64c38425ac00::t_571ecd12b0e270 88,91,94,110,114,135,144,151,161,174,178,190,202,216,226,233,237-238,246,269,319,386,402,406,414,418,424,440,444,449,453,480
+hibot/src/main/java/com/volcengine/hibot/v1/SkillsService.java
+  s_9b64c38425ac00::t_ac9cc63b490c28 77,94,127,138,151,156-158,174,188,208,215,226,245
+  s_9b64c38425ac00::t_f50b68c107d636 249
+hibot/src/main/java/com/volcengine/hibot/v1/ResourcesService.java
+  s_9b64c38425ac00::t_1d5b0a7b5f74d7 44,47,58,89,103,122,133,175,185,209,223,236,246
+hibot/src/main/java/com/volcengine/hibot/v1/types/V1Message.java
+  s_9b64c38425ac00::t_a9b8343af05893 6
+  s_9b64c38425ac00::t_d5e80f900494f6 18
+hibot/src/main/java/com/volcengine/hibot/internal/Bodies.java
+  s_9b64c38425ac00::t_8f6e17fc508eba 25-28
+hibot/src/main/java/com/volcengine/hibot/v1/McpsService.java
+  s_9b64c38425ac00::t_4302e4438847ef 60,88,97,110,141,178,184,192
+hibot/src/main/java/com/volcengine/hibot/v1/AgentsService.java
+  s_9b64c38425ac00::t_6c3bb7665e9ac5 46,70,75,89,111,120,141,154,164,182,217,219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a054ea833401f048a20911635d8670ae6eaf997c",
+  "prompts": {},
+  "sessions": {
+    "s_9b64c38425ac00": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3e5524a60e051df0b09358",
+        "model": "Doubao-Seed-2.1-Turbo__dev"
+      },
+      "human_author": "wangchunxing <wangchunxing@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {
+    "s_9b64c38425ac00": {
+      "tool": "trae",
+      "conversation_id": "6a3e5524a60e051df0b09358",
+      "session_id": "6a3e5524a60e051df0b09358",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_9b64c38425ac00::t_20bc7045a8f921": {
+      "tool": "trae",
+      "conversation_id": "6a3e5524a60e051df0b09358",
+      "session_id": "6a3e5524a60e051df0b09358",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
